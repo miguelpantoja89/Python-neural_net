@@ -1,2 +1,2 @@
 # Python-neural_net
-Learning nerural nets with Python
+Learning neural nets with Python
